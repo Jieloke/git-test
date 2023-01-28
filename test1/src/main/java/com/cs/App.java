@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
           System.out.println( "Hello 草莓按时!" );
+       System.out.println("曹尼是，");
     }
 }
